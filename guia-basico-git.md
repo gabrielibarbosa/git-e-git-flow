@@ -98,13 +98,3 @@ Git push: Envia as alterações locais para o repositório remoto.
 ```bash
  $ git push
 ```
-## Link dos nossos repositórios:
-  
-SIS-SURFACE:  
-[Link do repositório](https://source.cloud.google.com/sis-surface?authuser=0)
-  
-SPARK-EYES:  
-[Link do repositório](https://source.cloud.google.com/spark-eyes?authuser=0)
-  
-SMART-DIE:  
-[Link do repositório](https://source.cloud.google.com/smart-die?authuser=0)
